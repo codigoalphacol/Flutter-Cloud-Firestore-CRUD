@@ -1,6 +1,15 @@
-# recipes
+# Flutter  + Cloud Firestore CRUD
 
-A new Flutter project.
+![Codigo Alpha Flutter]
+
+![alt text](https://github.com/codigoalphacol/Flutter-Cloud-Firestore-CRUD/blob/master/assets/images/recipescloud.png)
+
+Los inviatamos para que se suscriban en el canal de Youtube
+
+We invite you to subscribe on the YouTube channel
+
+https://youtu.be/3Ujej6_A2B4
+
 
 ## Getting Started
 
