@@ -1,0 +1,32 @@
+name: recipes
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  cloud_firestore: ^0.10.1
+  firebase_storage: ^2.1.1+1
+  image_picker: ^0.6.0+1
+  date_format: ^1.0.6
+  intl: ^0.15.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+ 

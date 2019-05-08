@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263330994066",
+    "firebase_url": "https://apprecetas-cfd25.firebaseio.com",
+    "project_id": "apprecetas-cfd25",
+    "storage_bucket": "apprecetas-cfd25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263330994066:android:f9230aa82faa5e20",
+        "android_client_info": {
+          "package_name": "com.example.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263330994066-ifdiagn618fifhe9gnissa6a4rrrnd5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipes",
+            "certificate_hash": "44e863740ed6eb5cc35481651bfa815345f9baad"
+          }
+        },
+        {
+          "client_id": "263330994066-r874ksa0b05tps922crs1n7nfqpodlqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVtGlZrbtQmrfsxRMzS_EYZec_aYzz1ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263330994066-r874ksa0b05tps922crs1n7nfqpodlqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
